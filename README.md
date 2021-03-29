@@ -6,7 +6,7 @@ In-depth analysis of UFO sightings by allowing users to filter for multiple crit
 
 ## Results
 
-To use the webpage, click [here to view it in action.](https://guilcapi.github.io/ufos/)
+To use the webpage, click [here to view it in action.](https://guilcapi.github.io/UFOs/)
 
 On the left side of the page, there are table filters to search through the data. Simply either type in a date, city, state, country, and/or shape. Multiple filters work at once. You can click the "Filter Table" button on the screen or click the keyboard button "Enter".
 
